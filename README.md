@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Baby Turtle Care** is an interactive game where players control a "caring turtle" tasked with keeping two baby turtles safe. The objective is to protect the baby turtles from going outside the safe area, as the outside is dangerous.
+**Baby Turtle Care** is an interactive game where players control a "caring turtle" tasked with keeping two baby turtles safe. It's dangerous outside, so make sure the baby turtles stay in a safe area and take good care of it so that it doesn't get hurt! 🌳❤️
 
 ## Features
 
@@ -15,7 +15,7 @@
 
   - The caring turtle must catch the baby turtles before they go out of bounds.
   - If the caring turtle goes outside before the end of working hours, it goes back to its initial position.
-  - When the working hours end, you'll get the player's level of care and the appropriate message.
+  - When the working hours end, the player will receive their level of care.
 
 - 📊 **Score Tracking**:
 
